@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Topics">
+        <item>Exam</item>
+        <item>Test</item>
+        <item>Sports</item>
+        <item>Holidays</item>
+        <item>Campus</item>
+    </string-array>
+    <string-array name="Users">
+        <item>Faculty</item>
+        <item>Student</item>
+    </string-array>
+    
+</resources>
